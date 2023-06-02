@@ -1,4 +1,4 @@
-Arduino Smart Pet Feeder
+# Smart Pet Feeder
 
 
 This Arduino Smart Pet Feeder was a protoype embedded system implmemented for my Senior Design Project.
